@@ -23,4 +23,3 @@ def edad():
     calculo_edad = año_actual - año_nacimiento
     print(f'De accuerdo a tu información tu edad es de {calculo_edad} años')
     
-edad()
