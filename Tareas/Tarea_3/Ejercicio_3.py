@@ -7,7 +7,7 @@ print('*'*30)
 print('Para una atención más precisa por favor ingresa la siguiente información:')
 
 # Ahora solicitamos la estatura del cliente.
-estatura_usuario = float(input('¿Cuál es tu estarura? '))
+estatura_usuario = float(input('¿Cuál es tu estatura? '))
 
 print('*'*30)
 print('Calculando talla...')

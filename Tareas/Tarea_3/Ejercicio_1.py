@@ -1,9 +1,9 @@
-# La Escuela EPACMA busca verificar el cambio climatico en la ciudad, 
+# La Escuela ECAPMA busca verificar el cambio climatico en la ciudad, 
 # para ello, nuestro programa requiere poder tomar la temperatura de los ultimos 5 días para generar un promedio.
 
 # Menú de bienvenida.
 print('*'*45)
-print('Bienvenido al promediador climatico EPACMA')
+print('Bienvenido al promediador climatico ECAPMA')
 print('*'*45)
 print('Por favor ingrese la siguiente información:')
 

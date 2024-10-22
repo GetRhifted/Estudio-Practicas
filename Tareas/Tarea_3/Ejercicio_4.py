@@ -14,14 +14,15 @@ print('2 - Ciencia Ficción')
 print('*'*75)
 
 # Tomamos los datos de los usuarios.
-persona_1 = int(input('Ingresa tu elección: '))
-persona_2 = int(input('Ingresa tu elección: '))
-persona_3 = int(input('Ingresa tu elección: '))
-persona_4 = int(input('Ingresa tu elección: '))
-persona_5 = int(input('Ingresa tu elección: '))
+persona_1 = int(input('Primer participante, ingresa tu elección: '))
+persona_2 = int(input('Segundo participante, ingresa tu elección: '))
+persona_3 = int(input('Tercer participante, ingresa tu elección: '))
+persona_4 = int(input('Cuarto participante, ingresa tu elección: '))
+persona_5 = int(input('Quinto participante, ingresa tu elección: '))
 print('*'*75)
 
 # Contabilizamos los votos de cada opción.
+print('Calculando votos...')
 votos_1 = 0
 votos_2 = 0
 
