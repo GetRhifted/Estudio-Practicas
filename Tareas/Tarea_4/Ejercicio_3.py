@@ -19,7 +19,7 @@ for nota in range(12):
 
 print('*'*45)  
 print('Datos registrados')
-print('Analisando Información.')
+print('Analizando Información.')
 
 # Ahora calcularemos el promedio total de la clase.
 promedio = sum(notas_estudiantes) / len(notas_estudiantes)

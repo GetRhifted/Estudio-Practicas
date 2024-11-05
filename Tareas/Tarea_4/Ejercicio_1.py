@@ -32,7 +32,7 @@ for día in range(20):
 
 print('*'*45)    
 print('Datos registrados')
-print('Analisando Información.')
+print('Analizando Información.')
 
 
 # Realizamos el calculo del promedio de las temperaturas ingresadas.
