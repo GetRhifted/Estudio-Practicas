@@ -26,4 +26,4 @@ promedio = sum(notas_estudiantes) / len(notas_estudiantes)
 
 # Mostramos la información.
 print('*'*45)  
-print(f'El promedio total para las notas registradas es de {promedio}.')
+print(f'El promedio total para las notas registradas es de {promedio:.1f}.')

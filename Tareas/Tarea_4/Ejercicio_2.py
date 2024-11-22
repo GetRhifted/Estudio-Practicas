@@ -25,7 +25,7 @@ while decisión_usuario == "Si":
     print(f'El valor total con IVA incluido para esta compra es de {total_con_IVA} COP.')
 
     # Preguntamos al usuario si desea continuar.
-    decisión_usuario = input('¿Desea más facturar sus productos? Responda con un "Si" o un "No" de acuerdo a sus necesidades: ').capitalize()
+    decisión_usuario = input('¿Desea facturar más productos? Responda con un "Si" o un "No" de acuerdo a sus necesidades: ').capitalize()
 
 
 

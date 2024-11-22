@@ -14,4 +14,7 @@ def porcentaje_estudiantes_aprobados(cantidad_estudiantes, cantidad_total_de_apr
     # Mostramos los resultados.
     print(f'De acuerdo a los datos proporcionados, el porcentaje de aprobación del curso es del {porcentaje_aprobacion:.2f}%')
 
-porcentaje_estudiantes_aprobados(5,3)
+cantidad_estudiantes = int(input('Ingresa la cantidad de estudiantes en el curso: '))
+cantidad_total_de_aprobados = int(input('Ingresa la cantidad total de los estudiantes aprobados: '))
+
+porcentaje_estudiantes_aprobados(cantidad_estudiantes = cantidad_estudiantes, cantidad_total_de_aprobados = cantidad_total_de_aprobados)
