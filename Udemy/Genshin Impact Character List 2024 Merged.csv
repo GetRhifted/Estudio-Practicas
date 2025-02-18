@@ -1,0 +1,92 @@
+Name,Element,Weapon,Region,Model Type,Release Date,Version,HP,ATK,DEF,Ascension Stat,Ascension Stat Value
+Albedo,Geo,Sword,Mondstadt,Medium Male,12/23/2020,1.2,13225,251,876,Geo DMG Bonus,0.288
+Alhaitham,Dendro,Sword,Sumeru,Tall Male,1/18/2023,3.4,13348,313,781,Dendro DMG Bonus,0.288
+Aloy,Cryo,Bow,None,Medium Female,9/1/2021,2.1,10898,233,676,Cryo DMG Bonus,0.288
+Amber,Pyro,Bow,Mondstadt,Medium Female,9/28/2020,1,9461,223,600,ATK,0.24
+Arataki Itto,Geo,Claymore,Inazuma,Tall Male,12/14/2021,2.3,12858,227,959,CRIT Rate,0.192
+Arlecchino,Pyro,Polearm,Snezhnaya,Tall Female,4/24/2024,4.6,13103,342,764,CRIT DMG,0.384
+Baizhu,Dendro,Catalyst,Liyue,Tall Male,5/2/2023,3.6,13348,192,499,HP,0.288
+Barbara,Hydro,Catalyst,Mondstadt,Medium Female,9/28/2020,1,9787,159,668,HP,0.24
+Beidou,Electro,Claymore,Liyue,Tall Female,9/28/2020,1,13049,225,648,Electro DMG Bonus,0.24
+Bennett,Pyro,Sword,Mondstadt,Medium Male,9/28/2020,1,12397,191,771,Energy Recharge,0.268
+Candace,Hydro,Polearm,Sumeru,Tall Female,9/28/2022,3.1,10874,212,682,HP,0.24
+Charlotte,Cryo,Catalyst,Fontaine,Medium Female,11/8/2023,4.2,10766,173,546,ATK,0.24
+Chasca,Anemo,Bow,Natlan,Tall Female,11/20/2024,5.2,9796,346,614,CRIT Rate,0.192
+Chevreuse,Pyro,Polearm,Fontaine,Medium Female,1/9/2024,4.3,11962,193,604,HP,0.24
+Chiori,Geo,Sword,Inazuma,Medium Female,3/13/2024,4.5,11437,322,953,CRIT Rate,0.192
+Chongyun,Cryo,Claymore,Liyue,Medium Male,9/28/2020,1,10983,223,648,ATK,0.24
+Clorinde,Electro,Sword,Fontaine,Tall Female,6/5/2024,4.7,12956,337,783,CRIT Rate,0.192
+Collei,Dendro,Bow,Sumeru,Medium Female,8/24/2022,3,9787,199,600,ATK,0.24
+Cyno,Electro,Polearm,Sumeru,Medium Male,9/28/2022,3.1,12490,318,859,CRIT DMG,0.384
+Dehya,Pyro,Claymore,Sumeru,Tall Female,3/1/2023,3.5,15674,265,627,HP,0.288
+Diluc,Pyro,Claymore,Mondstadt,Tall Male,9/28/2020,1,12980,334,783,CRIT Rate,0.192
+Diona,Cryo,Bow,Mondstadt,Short Female,11/11/2020,1.1,9569,212,600,Cryo DMG Bonus,0.24
+Dori,Electro,Claymore,Sumeru,Short Female,9/9/2022,3,12397,223,723,HP,0.24
+Emilie,Dendro,Polearm,Fontaine,Medium Female,8/6/2024,4.8,13568,334,730,CRIT DMG,0.384
+Eula,Cryo,Claymore,Mondstadt,Tall Female,5/18/2021,1.5,13225,342,750,CRIT DMG,0.384
+Faruzan,Anemo,Bow,Sumeru,Medium Female,12/7/2022,3.3,9569,196,627,ATK,0.24
+Fischl,Electro,Bow,Mondstadt,Medium Female,9/28/2020,1,9189,244,593,ATK,0.24
+Freminet,Cryo,Claymore,Fontaine,Medium Male,9/5/2023,4,12071,254,708,ATK,0.24
+Furina,Hydro,Sword,Fontaine,Medium Female,11/8/2023,4.2,15307,243,695,CRIT Rate,0.192
+Gaming,Pyro,Claymore,Liyue,Medium Male,1/31/2024,4.4,11418,301,702,ATK,0.24
+Ganyu,Cryo,Bow,Liyue,Medium Female,1/12/2021,1.2,9796,334,630,CRIT DMG,0.384
+Gorou,Geo,Bow,Inazuma,Medium Male,12/14/2021,2.3,9569,182,648,Geo DMG Bonus,0.24
+Hu Tao,Pyro,Polearm,Liyue,Medium Female,3/2/2021,1.3,15552,106,876,CRIT DMG,0.384
+Jean,Anemo,Sword,Mondstadt,Tall Female,9/28/2020,1,14695,239,768,Healing Bonus,0.22
+Kachina,Geo,Polearm,Natlan,Short Female,8/28/2024,5,11799,216,792,Geo DMG Bonus,0.24
+Kaedehara Kazuha,Anemo,Sword,Inazuma,Medium Male,6/29/2021,1.6,13348,296,806,Elemental Mastery,115.2
+Kaeya,Cryo,Sword,Mondstadt,Tall Male,9/28/2020,1,11636,223,791,Energy Recharge,0.268
+Kamisato Ayaka,Cryo,Sword,Inazuma,Medium Female,7/21/2021,2,12858,342,783,CRIT DMG,0.384
+Kamisato Ayato,Hydro,Sword,Inazuma,Tall Male,3/30/2022,2.6,13715,298,768,CRIT DMG,0.384
+Kaveh,Dendro,Claymore,Sumeru,Tall Male,5/2/2023,3.6,11962,233,750,Elemental Mastery,96
+Keqing,Electro,Sword,Liyue,Medium Female,9/28/2020,1,13103,322,799,CRIT DMG,0.384
+Kinich,Dendro,Claymore,Natlan,Medium Male,9/17/2024,5,12858,332,801,CRIT DMG,0.384
+Kirara,Dendro,Sword,Inazuma,Medium Female,5/24/2023,3.7,12179,223,546,HP,0.24
+Klee,Pyro,Catalyst,Mondstadt,Short Female,10/20/2020,1,10286,310,614,Pyro DMG Bonus,0.288
+Kujou Sara,Electro,Bow,Inazuma,Tall Female,9/1/2021,2.1,9569,195,627,ATK,0.24
+Kuki Shinobu,Electro,Sword,Inazuma,Medium Female,6/21/2022,2.7,12288,212,750,HP,0.24
+Layla,Cryo,Sword,Sumeru,Medium Female,11/18/2022,3.2,11092,216,655,HP,0.24
+Lisa,Electro,Catalyst,Mondstadt,Tall Female,9/28/2020,1,9569,231,573,Elemental Mastery,96
+Lynette,Anemo,Sword,Fontaine,Medium Female,8/16/2023,4,12397,231,711,Anemo DMG Bonus,0.24
+Lyney,Pyro,Bow,Fontaine,Medium Male,8/16/2023,4,11021,318,537,CRIT Rate,0.192
+Mika,Cryo,Polearm,Mondstadt,Medium Male,3/21/2023,3.5,12506,223,713,HP,0.24
+Mona,Hydro,Catalyst,Mondstadt,Medium Female,9/28/2020,1,10409,287,653,Energy Recharge,0.32
+Mualani,Hydro,Catalyst,Natlan,Medium Female,8/28/2024,5,15184,181,570,CRIT Rate,0.192
+Nahida,Dendro,Catalyst,Sumeru,Short Female,11/2/2022,3.2,10360,298,630,Elemental Mastery,115.2
+Navia,Geo,Claymore,Fontaine,Tall Female,12/20/2023,4.3,12650,351,793,CRIT DMG,0.384
+Neuvillette,Hydro,Catalyst,Fontaine,Tall Male,9/27/2023,4.1,14695,208,576,CRIT DMG,0.384
+Nilou,Hydro,Sword,Sumeru,Medium Female,10/14/2022,3.1,15184,229,728,HP,0.288
+Ningguang,Geo,Catalyst,Liyue,Tall Female,9/28/2020,1,9787,212,573,Geo DMG Bonus,0.24
+Noelle,Geo,Claymore,Mondstadt,Medium Female,9/28/2020,1,12071,191,798,DEF,0.3
+Ororon,Electro,Bow,Natlan,Tall Male,11/20/2024,5.2,9243,244,586,ATK,0.24
+Qiqi,Cryo,Sword,Liyue,Short Female,9/28/2020,1,12368,287,922,Healing Bonus,0.22
+Raiden Shogun,Electro,Polearm,Inazuma,Tall Female,9/1/2021,2.1,12907,337,789,Energy Recharge,0.32
+Razor,Electro,Claymore,Mondstadt,Medium Male,9/28/2020,1,11962,233,750,Physical DMG Bonus,0.3
+Rosaria,Cryo,Polearm,Mondstadt,Tall Female,4/6/2021,1.4,12288,240,709,ATK,0.24
+Sangonomiya Kokomi,Hydro,Catalyst,Inazuma,Medium Female,9/21/2021,2.1,13470,234,657,Hydro DMG Bonus,0.288
+Sayu,Anemo,Claymore,Inazuma,Short Female,8/10/2021,2,11853,244,744,Elemental Mastery,96
+Sethos,Electro,Bow,Sumeru,Medium Male,6/5/2024,4.7,9787,227,559,Elemental Mastery,96
+Shenhe,Cryo,Polearm,Liyue,Tall Female,1/5/2022,2.4,12992,303,830,ATK,0.288
+Shikanoin Heizou,Anemo,Catalyst,Inazuma,Medium Male,7/13/2022,2.8,10657,225,683,Anemo DMG Bonus,0.24
+Sigewinne,Hydro,Bow,Fontaine,Short Female,6/25/2024,4.7,13348,192,499,HP,0.288
+Sucrose,Anemo,Catalyst,Mondstadt,Medium Female,9/28/2020,1,9243,169,702,Anemo DMG Bonus,0.24
+Tartaglia,Hydro,Bow,Snezhnaya,Tall Male,11/11/2020,1.1,13103,301,814,Hydro DMG Bonus,0.288
+Thoma,Pyro,Polearm,Inazuma,Tall Male,11/2/2021,2.2,10331,201,750,ATK,0.24
+Tighnari,Dendro,Bow,Sumeru,Medium Male,8/24/2022,3,10849,267,630,Dendro DMG Bonus,0.288
+Traveler,None,Sword,None,Aether: Medium MaleLumine: Medium Female,9/28/2020,1,10874,212,682,ATK,0.24
+Venti,Anemo,Bow,Mondstadt,Medium Male,9/28/2020,1,10531,263,668,Energy Recharge,0.32
+Wanderer,Anemo,Catalyst,Sumeru,Medium Male,12/7/2022,3.3,10164,327,607,CRIT Rate,0.192
+Wriothesley,Cryo,Catalyst,Fontaine,Tall Male,10/17/2023,4.1,13592,310,763,CRIT DMG,0.384
+Xiangling,Pyro,Polearm,Liyue,Medium Female,9/28/2020,1,10874,225,668,Elemental Mastery,96
+Xianyun,Anemo,Catalyst,Liyue,Tall Female,1/31/2024,4.4,10409,334,572,ATK,0.288
+Xiao,Anemo,Polearm,Liyue,Medium Male,2/3/2021,1.3,12735,349,799,CRIT Rate,0.192
+Xilonen,Geo,Sword,Natlan,Tall Female,10/9/2024,5.1,12405,275,929,DEF,0.36
+Xingqiu,Hydro,Sword,Liyue,Medium Male,9/28/2020,1,10222,201,757,ATK,0.24
+Xinyan,Pyro,Claymore,Liyue,Medium Female,12/1/2020,1.1,11201,248,798,ATK,0.24
+Yae Miko,Electro,Catalyst,Inazuma,Tall Female,2/16/2022,2.5,10372,339,568,CRIT Rate,0.192
+Yanfei,Pyro,Catalyst,Liyue,Medium Female,4/28/2021,1.5,9352,240,586,Pyro DMG Bonus,0.24
+Yaoyao,Dendro,Polearm,Liyue,Short Female,1/18/2023,3.4,12288,212,750,HP,0.24
+Yelan,Hydro,Bow,Liyue,Tall Female,5/31/2022,2.7,14450,243,547,CRIT Rate,0.192
+Yoimiya,Pyro,Bow,Inazuma,Medium Female,8/10/2021,2,10164,322,614,CRIT Rate,0.192
+Yun Jin,Geo,Polearm,Liyue,Medium Female,1/5/2022,2.4,10657,191,734,Energy Recharge,0.268
+Zhongli,Geo,Polearm,Liyue,Tall Male,12/1/2020,1.1,14695,251,737,Geo DMG Bonus,0.288
